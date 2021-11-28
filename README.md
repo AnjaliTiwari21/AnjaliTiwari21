@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <h1 class="s-color" style=" font-size:50px; background-color:black; color:white "><br><br>Anjali Tiwari</h1>
 				<h2 class="s-color" style='font-family: Fantasy;'>
