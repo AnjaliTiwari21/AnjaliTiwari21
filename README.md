@@ -8,7 +8,7 @@
 <div class="col-lg-12 text-center">
 	<h3 class="s-color"><br>About the Author</h3>
 		<p style= "font-family: calibri" > I am a Data Enthusiast Model,<br>
-				currently feeding Front-end technologies into my model to develop mobile and web application.<br>
+				currently learning Front-end technologies for developing mobile and web application.<br>
 				To keep a balanced state of mind I jump rope, write poems, play piano and do creative stuff.<br>
 				Inshort, constantly on the look-out for learning no matter the field!</p>
 
