@@ -1,6 +1,6 @@
-<h1 class="s-color" style=" font-size:50px; background-color:black; color:white "><br><br>Anjali Tiwari</h1>
-				<h2 class="s-color" style='font-family: Fantasy;'>
-					<hr> DATA SCIENTIST | WRITER | WELLBEING ENTHUSIAST <hr></h2>
+<h2 class="s-color" style=" font-size:50px; background-color:black; color:white "><br><br>Anjali Tiwari</h2>
+				<h3 class="s-color" style='font-family: Fantasy;'>
+					<hr> DATA SCIENTIST | WRITER | WELLBEING ENTHUSIAST <hr></h3>
 
 
 <h3> 🔭 I’m currently working on Data, Machine Learning and NLP </h3>
